@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AI.FSM.BaseFSM" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQQAABAQCAIgAAAIAQAAgAEBAEADAACAQAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\FSM\BaseFSM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.FSM.FSMTrigger" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAACAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FSM\Triggers\FSMTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.FSM.FSMState" Collapsed="true">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAgMIAAAAAAAAQAAAAAAAAAAICgAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\FSM\States\FSMState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.FSM.PathfindingState" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAICAAABAAQ=</HashCode>
+      <FileName>Assets\Scripts\FSM\States\PathfindingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.FSM.AttackingState" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAQAAAAQAAgAAAAAAAICAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\FSM\States\AttackingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.FSM.CompletePathfindingTrigger" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FSM\Triggers\CompletePathfindingTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.FSM.KilledTargetTrigger" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FSM\Triggers\KilledTargetTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.FSM.NoHealthTrigger" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FSM\Triggers\NoHealthTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+[Pathfinding]
+NoHealth>Dead
+CompletePathfinding>Attacking
+
+[Dead]
+
+[Attacking]
+NoHealth>Dead
+KilledTarget>Idle
+
+[Idle]

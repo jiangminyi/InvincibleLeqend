@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ns.SpawnSystem">
+    <Position X="0.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAACAAAAAAAAAAAAAIAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\SpawnSystem\SpawnSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ns.GameController">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAgAAAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ns.SpawnTrigger">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\SpawnSystem\SpawnTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ns.EnemySpawn">
+    <Position X="6.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAIAAAACACAAQAAAAAAAAgAAIQAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpawnSystem\EnemySpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARPGDemo.Character.EnemyStatus">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAABCAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\EnemyStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

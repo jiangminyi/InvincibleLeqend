@@ -1,0 +1,8 @@
+PlayerBullet=Bullets/PlayerBullet
+SoldierBullet=Bullets/SoldierBullet
+EffectsEnemy=ContactEffects/EffectsEnemy
+EffectsEnvironment=ContactEffects/EffectsEnvironment
+EffectsSoil=ContactEffects/EffectsSoil
+Soldier01=Enemys/Soldier01
+Soldier02=Enemys/Soldier02
+UIGunInfo=UI/UIGunInfo
